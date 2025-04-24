@@ -14,11 +14,6 @@ A simple and interactive loan management tool built with React. This app helps t
 
 ---
 
-## 🚀 Live Demo (Optional)
-
-> _Add your live deployment link here if hosted on Vercel, Netlify, etc._
-
----
 
 ## 🛠️ Installation & Running Locally
 
